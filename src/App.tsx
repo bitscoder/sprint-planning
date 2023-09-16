@@ -1,6 +1,6 @@
-import Message from "./Message";
+import AppStart from "./pages/home/AppStart";
 
-function App(){
-  return <div><Message></Message></div>;
+function App() {
+  return <AppStart />;
 }
 export default App;
